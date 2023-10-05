@@ -2,7 +2,7 @@
 
 📚 Welcome to the "LangChain: Chat with Your Data" course! Learn directly from the LangChain creator, Harrison Chase, and discover the power of LangChain in building chatbots that interact with information from your own documents and data. 
 
-**LangChain**:  🔗[GitHub](https://github.com/hwchase17/langchain), 📚[Documentation](https://python.langchain.com/en/latest/index.html)
+**LangChain**:  🔗[GitHub](https://github.com/hanselpetter/langchain-chat-with-your-data), 📚[Documentation](https://python.langchain.com/en/latest/index.html)
 
 ## Course Summary
 📖 A short course on LangChain: Chat With Your Data! Explore two main topics: Retrieval Augmented Generation (RAG) and building a chatbot. Unlock the potential of Large Language Models (LLMs) to retrieve contextual documents and create chatbots that respond using your own data. 
